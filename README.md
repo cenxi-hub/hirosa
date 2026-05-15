@@ -14,6 +14,7 @@ A personal collection of agent skills.
 - `grill-me`
 - `handoff`
 - `setup-matt-pocock-skills`
+- `design-taste-frontend`
 
 ## Layout
 
@@ -22,4 +23,5 @@ All skills live under `skills/`. Each folder keeps its original files so the ski
 ## Sources
 
 - `find-skills`: `vercel-labs/skills`
+- `design-taste-frontend`: `Leonxlnx/taste-skill`
 - all other included skills: `vinvcn/mattpocock-skills-zh-CN`
